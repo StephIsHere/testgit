@@ -9,4 +9,5 @@ func main() {
 	for i := 0; i < 1000; i++ {
 		fmt.Println(rand.NormFloat64() * 100)
 	}
+	fmt.Println("Test")
 }
